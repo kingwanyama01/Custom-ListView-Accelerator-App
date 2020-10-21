@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Accelerator Simple Designs</string>
+    <string name="ingiza_jina">Enter name</string>
+    <string name="ingiza_arafa">Enter email</string>
+    <string name="btn_simple_list_text">Simple List</string>
+    <string name="btn_custom_list_text">Custom List</string>
+
+    <string-array name="majina">
+        <item>King</item>
+        <item>Faustina</item>
+        <item>Abubakar</item>
+        <item>Assynath</item>
+        <item>Boniphace</item>
+        <item>Dativa</item>
+        <item>Edson</item>
+        <item>Emmanuel</item>
+        <item>Chichi</item>
+        <item>Albert</item>
+        <item>Meshack</item>
+    </string-array>
+
+
+</resources>
